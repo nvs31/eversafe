@@ -1423,7 +1423,7 @@ section {
     padding: 15px;
     font-weight: 600;
 }
-
+/*
 .contact .php-email-form .loading {
     display: none;
     background: #fff;
@@ -1443,7 +1443,7 @@ section {
     -webkit-animation: animate-loading 1s linear infinite;
     animation: animate-loading 1s linear infinite;
 }
-
+*/
 .contact .php-email-form input,
 .contact .php-email-form textarea {
     border-radius: 5px;
